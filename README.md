@@ -1,4 +1,4 @@
-# Base-datos-cl-nica-
+# Base-datos-clinica-
 
 
 # Base de Datos - Historias Clínicas
